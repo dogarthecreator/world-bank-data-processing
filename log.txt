@@ -1,0 +1,11 @@
+2024-08-06 01:33:35 : ETL process started
+2024-08-06 01:33:35 : Starting data extraction
+2024-08-06 01:33:37 : Data extraction completed
+2024-08-06 01:33:37 : Starting data transformation
+2024-08-06 01:33:37 : Data transformation completed
+2024-08-06 01:33:37 : Starting CSV load
+2024-08-06 01:33:37 : CSV load completed
+2024-08-06 01:33:37 : Starting database load
+2024-08-06 01:33:37 : Database load completed
+2024-08-06 01:33:37 : Running queries
+2024-08-06 01:33:37 : ETL process completed
