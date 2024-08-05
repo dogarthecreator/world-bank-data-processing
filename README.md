@@ -1,0 +1,2 @@
+# world-bank-data-processing
+ A Python project for extracting, transforming, and loading (ETL) market capitalization data of the top 10 largest banks in the world. This repository includes functionalities to fetch data from a web source, apply currency conversions based on exchange rates, and save the processed data into CSV and SQL formats. The project also features database querying capabilities to extract data for specific regional offices and logging for progress tracking.
